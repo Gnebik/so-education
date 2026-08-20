@@ -29,6 +29,3 @@ git lfs extract
 ## Note
 
 Files are downloaded for informational purposes only. There is no server part.
-
-```
-```
